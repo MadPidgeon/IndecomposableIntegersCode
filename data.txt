@@ -1,0 +1,350 @@
+-7 -5 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-7 -4 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-7 -4 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-7 -3 0 1 decomposable 1/3 1/3 1/3 0 -1 0 1 0 0 
+-7 -3 1 1 decomposable -1/2 0 1/2 0 -1 0 1 0 0 
+-7 -3 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-7 -2 0 1 decomposable 1 0 0 0 0 -2 0 9 1 -21 -4 0 -1 0 4 0 -3 0 1 0 0 
+-7 -2 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-7 -2 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-7 -1 -1 1 decomposable 1/2 -1/2 0 1 0 0 
+-7 -1 0 1 decomposable 1 0 0 0 0 -2 0 9 1 -21 -3 0 0 0 4 0 -3 0 1 0 0 
+-7 -1 1 1 decomposable 1 0 0 7 -2 -2 31 5 -8 14 8 -24 18 70 -13 -140 27 -16 -81 68 30 -98 -18 14 1 0 11 0 -5 0 1 0 0 
+-7 -1 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-7 0 -1 1 decomposable 1 0 0 0 1 -2 -1 9 0 -21 0 -1 0 -1 4 0 -3 0 1 0 0 
+-7 0 0 1 decomposable -1 0 0 0 0 1 0 -2 0 1 0 0 
+-7 0 1 1 decomposable 0 1 0 -7 2 -1 -9 9 3 -21 -2 3 1 0 4 0 -3 0 1 0 0 
+-7 0 2 1 decomposable 1 1 -1 -7 5 -1 -19 10 4 -21 2 6 -1 0 4 0 -3 0 1 0 0 
+-7 1 -1 1 decomposable 1 0 0 0 1 -2 -1 9 0 -21 1 -1 1 -1 4 0 -3 0 1 0 0 
+-7 1 0 1 decomposable 1 0 0 0 0 -2 0 9 -1 -21 3 0 0 0 4 0 -3 0 1 0 0 
+-7 1 1 1 decomposable -1 0 0 1/2 0 1/2 0 -1 0 1 0 0 
+-7 2 -2 1 decomposable 2 0 1 -7 -3 -3 19 4 4 -21 4 -6 1 0 4 0 -3 0 1 0 0 
+-7 2 -1 1 decomposable 0 -3/7 -1/7 1 0 0 
+-7 2 0 1 decomposable 1 0 0 0 0 -2 0 9 -1 -21 4 0 1 0 4 0 -3 0 1 0 0 
+-7 3 -2 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-7 3 -1 1 decomposable 1/2 0 1/2 0 -1 0 1 0 0 
+-7 3 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-7 4 -3 1 decomposable -1 0 0 1 0 0 
+-7 4 -2 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-7 4 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-7 5 -3 1 decomposable -1 0 0 1 0 0 
+-7 5 -2 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-7 6 -3 1 decomposable 1 -1 0 1 0 0 
+-7 7 -4 1 decomposable 1 -1 0 1 0 0 
+-7 7 -3 1 decomposable -1 0 0 1 0 0 
+-7 8 -4 1 decomposable 1 -1 0 1 0 0 
+-7 9 -5 1 decomposable 1 -1 0 1 0 0 
+-7 10 -5 1 decomposable 4 -4 1 1 0 0 
+-6 -5 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-6 -4 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-6 -4 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-6 -4 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-6 -3 0 1 decomposable 1 1 0 -3 -3/2 -1/2 0 1/2 3/2 0 -2 0 1 0 0 
+-6 -2 -1 1 decomposable 1 1 1 -6 -5 -3 9 10 4 -18 -6 -3 0 0 4 0 -3 0 1 0 0 
+-6 -2 0 1 decomposable 1 0 0 0 0 -2 0 8 1 -18 -4 0 -1 0 4 0 -3 0 1 0 0 
+-6 -2 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-6 -2 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-6 -1 -1 1 decomposable 1 0 0 0 1 -2 -1 8 1 -18 -3 -1 0 -1 4 0 -3 0 1 0 0 
+-6 -1 1 1 indeterminate 
+-6 -1 2 1 decomposable 0 1/2 1/2 0 -1 0 1 0 0 
+-6 0 -1 1 decomposable -1 0 0 0 0 0 0 6 3 -42 -24 -5 99 5 29 -30 -36 -44 68 69 11 -84 0 -14 0 0 11 0 -5 0 1 0 0 
+-6 0 0 1 decomposable 1 0 0 0 0 -2 0 8 0 -18 0 0 0 0 4 0 -3 0 1 0 0 
+-6 0 1 1 decomposable 1 1 0 -6 1 -1 -7 8 3 -18 -2 3 1 0 4 0 -3 0 1 0 0 
+-6 0 2 1 decomposable -1 1 0 -6 3 0 -15 14 2 -54 18 8 -51 26 21 -42 -3 14 1 0 7 0 -4 0 1 0 0 
+-6 0 3 1 decomposable 1 0 0 1 0 0 
+-6 1 -2 1 decomposable 2 0 1 -6 -3 -3 16 5 4 -18 3 -6 0 0 4 0 -3 0 1 0 0 
+-6 1 0 1 decomposable 1 0 0 -3 1/2 -1/2 0 1/2 3/2 0 -2 0 1 0 0 
+-6 1 1 1 indeterminate 
+-6 1 2 1 decomposable -1 1 0 -6 4 0 -15 10 4 -18 3 6 0 0 4 0 -3 0 1 0 0 
+-6 2 -2 1 decomposable 2 0 1 -6 -2 -3 16 3 4 -18 4 -6 1 0 4 0 -3 0 1 0 0 
+-6 2 -1 1 indeterminate 
+-6 2 0 1 decomposable 1 0 0 0 0 -2 0 8 -1 -18 4 0 1 0 4 0 -3 0 1 0 0 
+-6 2 1 1 decomposable 1 -1 0 6 -4 -1 20 -6 -6 6 8 -15 -26 35 -4 -42 14 7 0 0 7 0 -4 0 1 0 0 
+-6 3 -3 1 decomposable 1 -1 0 1 0 0 
+-6 3 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-6 3 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-6 3 1 1 decomposable 1 -1 -1 0 3 -3 -9 12 -1 -18 7 3 1 0 4 0 -3 0 1 0 0 
+-6 4 -3 1 decomposable -1 0 0 1 0 0 
+-6 4 -2 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-6 4 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-6 4 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-6 5 -2 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-6 5 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-6 6 -4 1 decomposable 1 -1 0 1 0 0 
+-6 6 -3 1 decomposable -1 0 0 1 0 0 
+-6 6 -2 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-6 7 -3 1 decomposable -1 0 0 1 0 0 
+-6 8 -4 1 decomposable 1 -1 0 1 0 0 
+-5 -5 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-5 -4 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-5 -4 1 1 decomposable 3 0 -1 1 0 0 
+-5 -3 -1 1 decomposable -3/2 -1 -1/2 -1/2 0 3/2 0 -2 0 1 0 0 
+-5 -3 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-5 -3 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-5 -3 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-5 -2 -1 1 decomposable 10 8 5 -95 -75 -49 447 354 226 -1300 -1022 -667 2601 2101 1343 -3990 -3100 -1960 4258 3290 2256 -3435 -3030 -1840 2739 1912 1143 -1040 -761 -695 333 467 200 -235 -94 -47 0 0 23 0 -7 0 1 0 0 
+-5 -2 0 1 indeterminate 
+-5 -2 1 1 indeterminate 
+-5 -2 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-5 -1 -2 1 decomposable 1 1 1 -5 -4 -4 13 9 5 -15 -1 -6 -1 0 4 0 -3 0 1 0 0 
+-5 -1 -1 1 indeterminate 
+-5 -1 0 1 indeterminate 
+-5 -1 1 1 decomposable -1/2 0 1/2 0 -1 0 1 0 0 
+-5 -1 2 1 indeterminate 
+-5 -1 3 1 decomposable 1 0 0 1 0 0 
+-5 0 -2 1 decomposable 2 0 1 -5 -3 -4 13 7 5 -15 0 -6 0 0 4 0 -3 0 1 0 0 
+-5 0 -1 1 indeterminate 
+-5 0 0 1 decomposable 0 1 0 -5 0 0 0 0 2 0 -2 0 1 0 0 
+-5 0 1 1 decomposable 1 1 0 -5 1 -1 -6 7 3 -15 -2 3 1 0 4 0 -3 0 1 0 0 
+-5 0 2 1 indeterminate 
+-5 0 3 1 decomposable 1 0 0 1 0 0 
+-5 1 -2 1 indeterminate 
+-5 1 -1 1 decomposable 1/2 0 1/2 0 -1 0 1 0 0 
+-5 1 0 1 indeterminate 
+-5 1 1 1 indeterminate 
+-5 1 2 1 indeterminate 
+-5 2 -3 1 decomposable 1 -1 0 1 0 0 
+-5 2 -2 1 indeterminate 
+-5 2 -1 1 indeterminate 
+-5 2 0 1 indeterminate 
+-5 2 1 1 decomposable 3 0 0 0 0 -3 -5 10 -1 -15 6 3 0 0 4 0 -3 0 1 0 0 
+-5 2 3 1 decomposable 1 0 0 1 0 0 
+-5 3 -3 1 decomposable 1 -1 0 1 0 0 
+-5 3 -2 1 indeterminate 
+-5 3 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-5 3 0 1 decomposable 1/3 -1/3 1/3 0 -1 0 1 0 0 
+-5 3 2 1 decomposable -4/7 -5/7 -1/7 1 0 0 
+-5 4 -3 1 decomposable 1 -1 0 1 0 0 
+-5 4 -2 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-5 4 -1 1 decomposable 1 -3/5 1/5 1 0 0 
+-5 5 -4 1 decomposable 1 -1 0 1 0 0 
+-5 5 -3 1 decomposable 1 -1 0 1 0 0 
+-5 5 -2 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-5 6 -4 1 decomposable 1 -1 0 1 0 0 
+-5 6 -3 1 decomposable 1 -1 0 1 0 0 
+-5 7 -4 1 decomposable 1 -1 0 1 0 0 
+-5 8 -5 1 decomposable 3 -4 1 1 0 0 
+-4 -5 -1 1 decomposable 1 0 0 1 -1 0 1 0 0 
+-4 -5 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-4 -4 -1 1 decomposable -1 -1/2 1/2 0 -1 0 1 0 0 
+-4 -4 0 1 decomposable -1 -1 1/2 1 0 0 
+-4 -4 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-4 -3 -1 1 decomposable 2 2 1 -8 -9 -6 19 24 13 -32 -30 -19 17 30 18 -28 -21 -7 0 0 7 0 -4 0 1 0 0 
+-4 -3 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-4 -3 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-4 -2 -1 1 decomposable 0 -1/2 1/2 0 -1 0 1 0 0 
+-4 -2 1 1 indecomposable 0 0 0 0 0 0 -4 0 0 -28 14 14 -202 -101/2 109/2 -258 -56 246 -119 -1261/2 517/2 1744 -888 -50 4850 -1107/2 -2127/2 5652 -608 -2713 5870 2768 -2168 -516 644 -2038 -1069 5255/2 693/2 -3010 -224 252 -855 735/2 1103/2 -416 -192 108 -2 -1/2 77/2 0 -9 0 1 0 0 
+-4 -1 -2 1 decomposable 2 1 1 -4 -4 -4 11 8 5 -12 -1 -6 -1 0 4 0 -3 0 1 0 0 
+-4 -1 -1 1 indeterminate 
+-4 -1 0 1 indecomposable 0 0 0 -2 -3/2 -1/2 25 29/2 25/2 -118 -303/2 -159/2 932 1317/2 513/2 -2614 -3117/2 -2583/2 4083 10917/2 6005/2 -14506 -21361/2 -7159/2 20588 19905/2 18907/2 -10232 -19845 -11943 29303 22182 4399 -22950 -12215/2 -20093/2 -194 22175/2 14009/2 -9898 -13377/2 329/2 3186 -371/2 3423/2 568 -890 -442 384 170 -56 -18 27/2 -45/2 -2 5/2 1/2 
+-4 -1 1 1 indeterminate 
+-4 -1 2 1 indecomposable 0 0 0 0 0 0 16 -4 -6 156 -37 -75 736 -53 -383 1624 106 -1181 1492 1579 -1983 -3940 4515 -1408 -15557 9374 2620 -29884 11965 8843 -35884 11023 13636 -29460 6547 13328 -16584 1564 8696 -5292 -329 3892 -734 -918 949 400 -308 100 153 -114 -38 36 -9 -9 2 -1 -1 
+-4 -1 3 1 decomposable 1 0 0 1 0 0 
+-4 0 -2 1 decomposable 1 0 1/2 -2 -1 -1 1 0 3/2 0 -2 0 1 0 0 
+-4 0 0 1 decomposable 0 0 1/2 0 -1 0 1 0 0 
+-4 0 1 1 indeterminate 
+-4 0 2 1 decomposable 0 0 1/2 0 -1 0 1 0 0 
+-4 1 -2 1 decomposable 0 -1/2 1/2 0 -1 0 1 0 0 
+-4 1 -1 1 indecomposable 0 0 0 0 0 0 0 0 0 -4 -7 -3 124 41 21 -628 37 -242 884 368 875 -2224 -2424 -1051 8436 1962 1621 -10156 938 -4675 3585 3307 4932 -5604 -6011 -1532 8576 518 1501 -2716 672 -1953 1 854 521 -432 -292 0 152 -39 39 0 0 -9 0 1 0 
+-4 1 0 1 indeterminate 
+-4 1 1 1 indeterminate 
+-4 1 3 1 decomposable 1 0 0 1 0 0 
+-4 2 -3 1 decomposable 1 -1 0 1 0 0 
+-4 2 -1 1 indecomposable 0 0 0 0 0 0 0 -2 1 32 -16 -1 -4 173/2 -129/2 -516 327 19 -83 -726 562 2548 -1754 -83 683 4513/2 -3409/2 -5502 3731 -20 -1384 -5787/2 4629/2 5592 -3526 409 295 2661/2 -3469/2 -1274 1645 42 -736 -615/2 427/2 384 -208 100 2 -1/2 -75/2 0 9 0 -1 0 0 
+-4 2 0 1 decomposable 0 0 1/2 0 -1 0 1 0 0 
+-4 2 2 1 decomposable -1 0 0 -2 1 1 0 0 3/2 0 -2 0 1 0 0 
+-4 2 3 1 decomposable 1 0 0 1 0 0 
+-4 3 -3 1 decomposable 1 -1 0 1 0 0 
+-4 3 -2 1 indecomposable 0 0 0 0 0 0 0 0 0 -12 1 -4 324 -75 126 -3456 674 -1626 26346 -1718 11639 -179148 16765 -66151 907894 -178206 348816 -3186588 649088 -1432267 9318781 -886880 4229428 -27710236 2102103 -10621816 72665389 -12507711 27153781 -142635140 30436222 -61606499 230458187 -29233523 106350145 -381687940 26174551 -153078339 606824261 -89178274 224714480 -756592040 159194294 -314642224 757187764 -115238713 348142190 -751557708 54004411 -312415258 748427319 -96159067 277400556 -603703152 124933694 -244308639 378092050 -64773183 173864186 -224333068 15502589 -96329715 137754246 -14689157 50517461 -69590092 14537146 -27134536 25561019 -5171518 11848261 -8161444 521023 -3721613 2769412 -177505 1005327 -778964 156829 -283791 141118 -35037 64451 -18112 1536 -9040 2249 -1 844 -204 34 -68 7 -2 3 
+-4 3 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-4 3 1 1 indeterminate 
+-4 3 2 1 decomposable 1 0 -1 -4 5 -2 -10 14 3 -12 7 6 1 0 4 0 -3 0 1 0 0 
+-4 3 3 1 decomposable 1 0 0 1 0 0 
+-4 4 -2 1 decomposable 0 0 1/2 0 -1 0 1 0 0 
+-4 4 0 1 decomposable 1 0 1/2 0 -1 0 1 0 0 
+-4 4 1 1 decomposable 1/2 -1/4 1/4 1 0 0 
+-4 5 -4 1 decomposable 1 -1 0 1 0 0 
+-4 5 -3 1 decomposable -1 0 0 1 0 0 
+-4 5 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-4 5 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-4 6 -2 1 decomposable 1 0 1/2 0 -1 0 1 0 0 
+-4 7 -3 1 decomposable -1 0 0 1 0 0 
+-4 8 -4 1 decomposable 1 -1 0 1 0 0 
+-3 -6 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-3 -5 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-3 -5 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-3 -4 -1 1 decomposable 1 0 0 1 -1 0 1 0 0 
+-3 -4 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-3 -3 -1 1 indeterminate 
+-3 -3 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-3 -3 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-3 -2 -1 1 indeterminate 
+-3 -2 0 1 indecomposable 0 0 0 0 -1 -1 7 8 2 -15 -13 -9 15 21 13 -9 -21 -11 19 13 1 0 0 -4 0 1 0 
+-3 -2 1 1 indecomposable 0 0 0 0 -1 0 7 1 -1 9 -3 -7 12 7 -4 0 0 -3 0 1 0 
+-3 -1 -2 1 decomposable 1 1 0 -3 0 -1 -1 -1 2 0 -2 0 1 0 0 
+-3 -1 -1 1 indecomposable 0 0 0 0 0 0 0 0 0 -15 -11 -10 138 109 103 -1305/2 -558 -961/2 2132 1704 1429 -4551 -3405 -3206 6709 5730 5156 -18081/2 -7447 -12041/2 8810 6394 6150 -5892 -5285 -4623 8465/2 3184 5131/2 -1617 -1169 -1400 504 675 383 -288 -108 -96 3/2 0 75/2 0 -9 0 1 0 0 
+-3 -1 0 1 indecomposable 0 0 0 0 0 0 -3 -1 0 3 1 5 0 -13 -4 21 7 0 0 0 -7 0 4 0 -1 0 0 
+-3 -1 1 1 indecomposable 0 0 0 0 1 0 -7 1 1 -12 3 7 -11 -4 7 0 -3 3 1 -1 0 
+-3 -1 2 1 indecomposable 0 0 0 0 -1 0 7 -1 -1 12 -10 -7 22 -3 -7 9 -6 -6 3 0 -1 
+-3 0 -2 1 indeterminate 
+-3 0 -1 1 indecomposable 0 0 0 0 0 0 0 0 1 0 -5 0 10 0 0 0 3 -3 -1 1 0 
+-3 0 0 1 indecomposable 0 0 0 0 -1 0 7 0 0 0 0 -7 0 11 0 -9 0 0 0 0 1 
+-3 0 1 1 indecomposable 0 0 0 0 0 0 0 0 1 0 -5 0 10 0 0 0 -3 -3 1 1 0 
+-3 0 3 1 decomposable -1 -1 0 1 0 0 
+-3 1 -2 1 indecomposable 0 0 0 0 0 0 0 0 0 -15 -1 -11 162 21 122 -849 -125 -618 2750 359 1951 -6003 -611 -4324 9113 1156 6935 -11151 -2224 -8043 12131 1246 7636 -8523 672 -6459 2799 877 3600 -1680 -1687 -931 1653 -87 396 -276 392 -300 -114 40 37 0 -27 9 3 -1 0 
+-3 1 -1 1 indecomposable 0 0 0 0 0 0 3 -1 1 -3 1 -6 0 13 5 -21 -11 0 20 -7 7 0 0 -4 0 1 0 
+-3 1 0 1 indecomposable 0 0 0 0 -1 0 7 -2 0 3 -1 -10 0 26 -5 -42 11 0 1 0 14 0 -8 0 2 0 0 
+-3 1 2 1 indeterminate 
+-3 1 3 1 decomposable 1 0 0 1 0 0 
+-3 2 -3 1 decomposable -1 0 0 1 0 0 
+-3 2 -2 1 indecomposable 0 0 0 0 0 0 3 -2 2 -3 2 -7 0 13 4 -21 -7 0 21 -14 7 0 4 -4 -1 1 0 
+-3 2 -1 1 indecomposable 0 0 0 0 -1 0 4 1 -1 -9 6 -3 0 0 4 0 -3 0 1 0 0 
+-3 2 1 1 indeterminate 
+-3 2 2 1 indeterminate 
+-3 2 3 1 decomposable 1 0 0 1 0 0 
+-3 3 -3 1 decomposable -1 0 0 1 0 0 
+-3 3 -2 1 indecomposable 0 0 0 0 1 0 -7 0 0 21 -14 7 -11 11 -11 0 3 3 -1 -1 0 
+-3 3 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-3 3 1 1 indeterminate 
+-3 3 2 1 decomposable 0 1 0 -3 2 1 1 1 2 0 -2 0 1 0 0 
+-3 3 3 1 decomposable -1 -1 0 1 0 0 
+-3 3 4 1 decomposable 1 0 0 1 0 0 
+-3 4 -3 1 decomposable 1 -1 0 1 0 0 
+-3 4 -1 1 decomposable -1 -1/3 -1/3 1 0 0 
+-3 4 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-3 4 1 1 decomposable -1 2 0 -3 3 5 13 -26 4 24 -27 -19 -13 30 -17 -21 31 7 -1 0 7 0 -4 0 1 0 0 
+-3 4 2 1 decomposable 1 -2 -1 0 1 -4 -7 15 0 -9 12 6 0 0 4 0 -3 0 1 0 0 
+-3 4 3 1 decomposable 1 0 0 1 0 0 
+-3 5 -4 1 decomposable 1 -1 0 1 0 0 
+-3 5 -2 1 indeterminate 
+-3 5 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-3 5 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-3 5 1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-3 6 -3 1 decomposable 1 -1 0 1 0 0 
+-3 6 -2 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-3 6 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-3 7 -4 1 decomposable 1 -1 0 1 0 0 
+-3 7 -3 1 decomposable -1 0 0 1 0 0 
+-3 8 -5 1 decomposable 1 -1 0 1 0 0 
+-2 -6 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-2 -5 -1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-2 -4 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-2 -4 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-2 -4 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-2 -3 -2 1 decomposable 0 1 0 0 -1 0 1 0 0 
+-2 -3 -1 1 indecomposable 0 0 0 28 53 35 -321 -610 -404 1762 3343 2210 -6079 -11540 -7638 14838 28167 18631 -27122 -51482 -34062 38462 72989 48271 -43099 -81830 -54191 38776 73644 48645 -28066 -53180 -35232 16368 31056 20473 -7415 -14240 -9658 2996 5635 3353 -795 -1253 -1102 16 392 208 -148 -76 -1 -36 -18 18 -4 -4 2 
+-2 -3 2 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-2 -2 -2 1 decomposable 1 1 0 -1 -1 0 1 0 0 
+-2 -2 -1 1 indecomposable 0 0 0 0 0 0 0 0 0 0 -2 0 8 0 1 14 3 -7 13 14 -7 0 8 -4 -2 1 0 
+-2 -2 0 1 indecomposable 
+-2 -2 2 1 indeterminate 
+-2 -1 -2 1 decomposable 0 -1/2 1/2 0 -1 0 1 0 0 
+-2 -1 0 1 indecomposable 
+-2 -1 1 1 indecomposable 
+-2 -1 3 1 decomposable 1 0 0 1 0 0 
+-2 0 -3 1 decomposable 1 -1 0 1 0 0 
+-2 0 -2 1 indecomposable 0 0 0 0 0 0 24 10 28 -276 -116 -326 1508 640 1781 -5162 -2188 -6090 12344 5244 14575 -21968 -9340 -25860 29970 12538 35293 -31584 -13456 -37614 26812 11788 31413 -18330 -7226 -21128 8987 3686 11284 -3710 -2135 -4368 1529 430 1409 -216 32 -408 -4 75 39 -18 -9 0 1 -2 1 
+-2 0 -1 1 indecomposable 
+-2 0 0 1 indecomposable 
+-2 0 2 1 indecomposable 
+-2 1 -3 1 decomposable 1 -1 0 1 0 0 
+-2 1 -1 1 indecomposable 
+-2 1 1 1 indecomposable 
+-2 1 2 1 indecomposable 0 0 0 0 1 -1 -9 11 1 -32 34 21 -44 30 44 -14 -4 35 13 -21 7 8 -12 -4 2 -1 -1 
+-2 2 -3 1 decomposable -1 0 0 1 0 0 
+-2 2 -2 1 indecomposable 
+-2 2 0 1 indecomposable 
+-2 2 1 1 indecomposable 0 0 0 0 1 0 -3 2 2 0 -4 4 7 -7 0 0 -3 -3 1 1 0 
+-2 2 2 1 indecomposable 0 0 0 -2 4 -1 -56 79 32 -294 296 376 7 -729 1246 4348 -7583 30 14777 -20110 -9738 19388 -18688 -26188 -946 17684 -27900 -36828 64111 -44 -49461 67254 32670 -26490 25398 36072 910 -10645 15721 8848 -15253 -280 4587 -6120 -3120 816 -800 -1224 -2 153 -153 -36 36 0 0 4 2 
+-2 2 3 1 decomposable 1 0 0 1 0 0 
+-2 2 4 1 decomposable 1 0 0 1 0 0 
+-2 3 -4 1 decomposable 1 -1 0 1 0 0 
+-2 3 -1 1 indecomposable 0 0 0 0 0 0 2 -3 1 2 1 -7 -18 28 -4 0 -11 18 13 -20 0 0 4 -4 -1 1 0 
+-2 3 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-2 3 1 1 indeterminate 
+-2 3 2 1 decomposable 0 1/2 1/2 0 -1 0 1 0 0 
+-2 3 3 1 decomposable 1 0 0 1 0 0 
+-2 4 -4 1 decomposable 1 -1 0 1 0 0 
+-2 4 -2 1 indecomposable 0 0 0 0 0 -1 -4 9 -1 2 -12 8 9 -8 -3 -6 9 -3 1 -1 1 
+-2 4 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-2 4 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-2 4 1 1 indeterminate 
+-2 4 2 1 decomposable 0 1 0 -2 2 1 2 1 2 0 -2 0 1 0 0 
+-2 4 3 1 decomposable 1 0 0 1 0 0 
+-2 4 4 1 decomposable 1 0 0 1 0 0 
+-2 5 -3 1 decomposable 1 -1 0 1 0 0 
+-2 5 -2 1 indeterminate 
+-2 5 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-2 5 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-2 5 1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-2 5 2 1 decomposable -1 0 0 -1 -1 0 1 0 0 
+-2 6 -4 1 decomposable 1 -1 0 1 0 0 
+-2 6 -3 1 decomposable 1 -1 0 1 0 0 
+-2 6 -2 1 decomposable -1 1 0 -1 -1 0 1 0 0 
+-2 6 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-2 7 -4 1 decomposable 1 -1 0 1 0 0 
+-1 -6 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-1 -5 -1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-1 -5 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-1 -5 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-1 -4 -1 1 decomposable 1 1 0 -1 -1 0 1 0 0 
+-1 -4 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-1 -4 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-1 -4 2 1 decomposable 0 -1 0 0 -1 0 1 0 0 
+-1 -3 -2 1 decomposable 2 2 -1 1 0 0 
+-1 -3 0 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-1 -3 1 1 decomposable 1 0 0 0 -1 0 1 0 0 
+-1 -3 2 1 decomposable 1 0 0 -1 -1 0 1 0 0 
+-1 -2 -2 1 decomposable 0 1 0 0 -1 0 1 0 0 
+-1 -2 -1 1 indecomposable 
+-1 -2 1 1 indecomposable 
+-1 -1 -2 1 indecomposable 0 0 0 1 1 2 -3 -4 -9 6 9 16 -5 -9 -17 7 14 7 -7 7 -7 -8 -4 4 -1 -5 2 
+-1 -1 -1 1 indecomposable 
+-1 -1 0 1 indecomposable 
+-1 -1 2 1 indecomposable 0 0 0 0 0 0 0 0 1 -2 -4 3 0 3 9 -7 -10 4 1 8 7 -4 -4 0 0 2 1 
+-1 -1 3 1 decomposable -1 -1 0 1 0 0 
+-1 0 -3 1 decomposable -1 0 0 1 0 0 
+-1 0 -2 1 indecomposable 
+-1 0 -1 1 indecomposable 
+-1 0 1 1 indecomposable 
+-1 0 3 1 decomposable 1 0 0 1 0 0 
+-1 1 -3 1 decomposable 1 -1 0 1 0 0 
+-1 1 -2 1 indecomposable 
+-1 1 0 1 indecomposable 
+-1 1 1 1 indecomposable 
+-1 1 2 1 indecomposable 
+-1 2 -3 1 decomposable 1 -1 0 1 0 0 
+-1 2 -1 1 indecomposable 
+-1 2 0 1 indecomposable 
+-1 2 1 1 indecomposable 
+-1 2 2 1 indecomposable 
+-1 2 3 1 decomposable 1 0 0 1 0 0 
+-1 3 -4 1 decomposable 1 -1 0 1 0 0 
+-1 3 -2 1 indecomposable 
+-1 3 -1 1 indecomposable 
+-1 3 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-1 3 1 1 decomposable 1/2 0 1/2 0 -1 0 1 0 0 
+-1 3 2 1 indecomposable 0 0 0 -2 7 1 -24 74 47 -28 24 282 444 -1671 218 1799 -5870 -2378 1835 -4668 -7210 -2801 11656 -5436 -8195 27649 7560 -5868 16694 16616 1865 -9237 8999 4937 -17079 -3024 2315 -6905 -5375 -112 903 -1876 -397 1436 124 -116 332 208 2 3 40 0 -9 0 1 0 0 
+-1 3 3 1 decomposable 1 0 0 1 0 0 
+-1 3 4 1 decomposable 1 0 0 1 0 0 
+-1 4 -3 1 decomposable 1 -1 0 1 0 0 
+-1 4 -2 1 indecomposable 0 0 0 0 0 0 2 -7 0 -25 101 -47 -9 -54 302 683 -2417 64 -1675 6928 -3672 -988 1584 6619 7375 -26849 3349 -6298 27264 -18094 -4238 11499 11890 8442 -31599 6854 -2565 11972 -10351 -1680 5166 2387 1130 -4225 1256 -132 524 -608 -25 145 42 0 -27 9 3 -1 0 
+-1 4 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-1 4 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-1 4 1 1 indeterminate 
+-1 4 2 1 indeterminate 
+-1 4 3 1 decomposable 1 0 0 1 0 0 
+-1 4 4 1 decomposable 1 0 0 1 0 0 
+-1 5 -4 1 decomposable 1 -1 0 1 0 0 
+-1 5 -3 1 decomposable 1 -1 0 1 0 0 
+-1 5 -2 1 decomposable -2/3 0 -1/3 1 0 0 
+-1 5 -1 1 decomposable 1/2 0 1/2 0 -1 0 1 0 0 
+-1 5 0 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-1 5 1 1 decomposable -1 0 0 0 -1 0 1 0 0 
+-1 5 2 1 decomposable 3/5 -1/5 1/5 1 0 0 
+-1 5 3 1 decomposable 1 0 0 1 0 0 
+-1 5 4 1 decomposable 1 0 0 1 0 0 
+-1 6 -4 1 decomposable 1 -1 0 1 0 0 
+-1 6 -3 1 decomposable 1 -1 0 1 0 0 
+-1 6 -2 1 decomposable -1 0 0 1 -1 0 1 0 0 
+-1 6 -1 1 decomposable -1 0 0 0 -1 0 1 0 0 
